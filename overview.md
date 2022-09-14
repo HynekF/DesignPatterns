@@ -53,3 +53,6 @@ To remember structural patterns the best is (ABCDFFP)
 - **Template Method** Defer the exact steps of an algorithm to a subclass.
 
 - **Visitor** Defines a new operation to a class without change.
+
+## Factory pattern explanation
+
